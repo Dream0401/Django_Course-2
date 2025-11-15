@@ -167,6 +167,7 @@ cython_debug/
 # gemini
 .gemini/
 gemini.md
+111
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
