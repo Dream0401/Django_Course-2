@@ -167,7 +167,6 @@ cython_debug/
 #gemini
 .gemini/
 gemini.md
-settings.json
 
 
 
